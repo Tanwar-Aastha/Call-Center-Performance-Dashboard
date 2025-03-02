@@ -4,6 +4,12 @@
 
 The objective of this project is to develop an interactive Call Center Dashboard using Power BI to monitor call center performance, evaluate agent efficiency, and enhance customer satisfaction. This dashboard provides key performance indicators (KPIs) and insights to help improve operational efficiency and decision-making.
 
+## Dashboard
+[Dashboard Link](https://app.powerbi.com/groups/me/reports/e087d4a0-5003-42d8-937d-b909c730ff16/24732ca096e0d0460a28?experience=power-bi)
+
+<img width="646" alt="image" src="https://github.com/user-attachments/assets/372b0213-25a6-4a75-980e-5cf420e59f8a" />
+
+
 ## Executive Summary
 
 This Call Center Dashboard is a comprehensive analytical tool designed to visualize and assess call center operations. It provides insights into call volumes, agent performance, customer satisfaction, and response efficiency. The dashboard features dynamic filters, interactive charts, and agent-specific statistics, allowing users to identify trends and areas for improvement. With over 4,000 calls analyzed, this tool helps in optimizing call center workflows and enhancing customer experience.
